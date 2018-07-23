@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/baptist/projetos/musicle-mvp/app/views'
+let g:netrw_dirhist_2='/home/baptist/projetos/musicle-mvp/app/views/pages'
+let g:netrw_dirhist_3='/home/baptist/projetos/musicle-mvp/app/views'
+let g:netrw_dirhist_4='/home/baptist/projetos/musicle-mvp/app/views/errors'
+let g:netrw_dirhist_5='/home/baptist/projetos/musicle-mvp/app/views'
+let g:netrw_dirhist_6='/home/baptist/projetos/musicle-mvp/app'
+let g:netrw_dirhist_7='/home/baptist/projetos/musicle-mvp'
